@@ -105,7 +105,7 @@
 	});
 	
 	/*CountDown*/
-	$('.married_coundown').countdown({until: new Date(2015, 9, 19)});
+	$('.married_coundown').countdown({until: new Date(2015, 9, 25)});
 	
 	/*OWL Carousel in Our Story*/
 	$(".story_wrapper").owlCarousel({
